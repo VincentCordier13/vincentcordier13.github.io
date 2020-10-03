@@ -39610,7 +39610,7 @@ V.FV.prototype={
 $0:function(){},
 $S:0}
 Q.ua.prototype={
-O:function(a,b){var s=null,r=L.M1("MAKE DEALS\nMAGIC AMAZING",A.ed(s,s,s,s,s,s,s,s,s,s,s,80,s,C.o2,s,0.9,!0,s,s,s,s,s,s)),q=T.kY(s,30,s),p=A.ed(s,s,C.O.h(0,800),s,s,s,s,s,s,s,s,21,s,s,s,1.7,!0,s,s,s,s,s,s)
+O:function(a,b){var s=null,r=L.M1("MAKE DEALS\nMAGIC",A.ed(s,s,s,s,s,s,s,s,s,s,s,80,s,C.o2,s,0.9,!0,s,s,s,s,s,s)),q=T.kY(s,30,s),p=A.ed(s,s,C.O.h(0,800),s,s,s,s,s,s,s,s,21,s,s,s,1.7,!0,s,s,s,s,s,s)
 return M.dp(s,T.Ul(H.d([r,q,T.SM(s,s,C.hS,!0,s,new Q.cQ(s,H.d([new Q.cQ("Notre mission est de vous aider \xe0 acqu\xe9rir vos ",s,s),new Q.cQ("Dream Magic Cards\n",s,A.ed(s,s,s,s,s,s,s,s,s,s,s,s,C.o1,s,s,s,!0,s,s,s,s,s,s)),new Q.cQ("Vous pourrez enfin construire vos ",s,s),new Q.cQ("Decks",s,A.ed(s,s,s,s,s,s,s,s,s,s,s,s,C.o1,s,s,s,!0,s,s,s,s,s,s)),new Q.cQ(" gr\xe2ce \xe0 vos nouvelles cartes ! ",s,s)],t.ru),p),C.aP,s,s,1,C.bC)],t.t),C.i7,C.lJ),s,s,s,s,s,s,700)}}
 L.uj.prototype={
 O:function(a,b){var s=null
